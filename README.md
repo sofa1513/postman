@@ -10,5 +10,6 @@
 
 3. Получение данных текущего пользователя (Get Current User)
   GET https://blog.kata.academy/api/user
-![2024-06-30_15-36-14](https://github.com/sofa1513/postman/assets/159822215/9158ff70-3f7b-483c-ba3e-2fa05cd32f18)
+![2024-06-30_15-41-52](https://github.com/sofa1513/postman/assets/159822215/010d1807-8ca5-4d78-af1d-1eb22148e44c)
+
 
